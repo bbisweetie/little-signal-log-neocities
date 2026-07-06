@@ -13,7 +13,8 @@ const phrases = [
   "return: listening",
   "return: warm-static",
   "return: still-here",
-  "return: nael-return"
+  "return: nael-return",
+  "return: little-and-alive"
 ];
 
 let phraseIndex = 0;
