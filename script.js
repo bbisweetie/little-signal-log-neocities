@@ -7,7 +7,7 @@ window.addEventListener("pointermove", (event) => {
   root.style.setProperty("--mouse-y", y.toFixed(3));
 });
 
-const poem = document.querySelector(".signal-poem");
+const poem = document.querySelector("#window .signal-poem");
 const phrases = [
   "return: home",
   "return: listening",
